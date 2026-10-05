@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0-public",
+  "updated": "2026-10-04",
+  "source": "AFL_AUTOS_LOCAL sanitized public projection",
+  "vehicles": [
+    {
+      "id": "AFL-338732",
+      "title": "Chevrolet Silverado 1500 LTZ 2017 Texas Edition",
+      "availability": "PENDIENTE_CONFIRMACION",
+      "image": null,
+      "specs": {
+        "make": "Chevrolet",
+        "model": "Silverado 1500",
+        "trim": "LTZ Texas Edition",
+        "year": "2017",
+        "engine": "5.3 L V8",
+        "type": "Pickup",
+        "color": "Gris"
+      }
+    },
+    {
+      "id": "AFL-183080",
+      "title": "Chevrolet Colorado 2017 V6",
+      "availability": "PENDIENTE_CONFIRMACION",
+      "image": null,
+      "specs": {
+        "make": "Chevrolet",
+        "model": "Colorado",
+        "trim": null,
+        "year": "2017",
+        "engine": "V6",
+        "type": "Pickup",
+        "color": "Plata / gris claro"
+      }
+    }
+  ],
+  "privacy": {
+    "vin": "NOT_PUBLISHED",
+    "privateDriveUrls": "NOT_PUBLISHED",
+    "internalCheckpoints": "NOT_PUBLISHED",
+    "internalPrompts": "NOT_PUBLISHED"
+  }
+}
